@@ -13,7 +13,7 @@
       {
         "title": "Stoic Companion",
         "startDate": "2021",
-        "description": "A lightweight app for fetching,displaying and storing philosopher's quotes with ability to comment.",
+        "description": "A lightweight app for fetching,displaying and storing philosopher's quotes with the ability to post, store and delete comments.",
         "images": [
           "images/portfolio/stoic-companion/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
