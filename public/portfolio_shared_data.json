@@ -12,7 +12,13 @@
           "name": "instagram",
           "url": "https://www.instagram.com",
           "class": "fab fa-instagram"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedins.com",
+          "class": "fab fa-linkedin"
         }
+
       ],
       "image": "myProfile.jpg"
     },
@@ -29,18 +35,13 @@
           "level": "95"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
+          "name": "React",
+          "class": "devicon-react-original",
           "level": "75"
         },
         {
