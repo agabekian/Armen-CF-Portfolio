@@ -21,10 +21,6 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
           },
@@ -57,7 +53,7 @@
       {
         "title": "3D Object Viewer",
         "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in React framework. I've learned a lot!",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -82,7 +78,7 @@
         "title": "Front-End Developer",
         "years": "10.2019 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React"
         ],
         "technologies": [
           "REST API",
@@ -92,8 +88,7 @@
           "MDBootstrap",
           "EF Core",
           ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "SignalR"
         ]
       },
       {
@@ -101,7 +96,7 @@
         "title": "Intern",
         "years": "01.2018 - 09.2019",
         "mainTech": [
-          "Angular 7/8"
+          "React"
         ],
         "technologies": [
           "RxJS",
